@@ -2,11 +2,6 @@
 
 Web application based on React and Redux
 
-## Project Purpose: 
-
-The purpose is to demonstrate understanding of how Redux works in a React-based web app. 
-
-
 
 ## How To Install
 
